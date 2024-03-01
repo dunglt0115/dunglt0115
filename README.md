@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects that have a positive impact on daily life.
 
 - 💬 Ask me about: Javascript, Power Platform.
-- 📫 How to reach me: [Email](mailto:tiendungid1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dunglt0115)
+- 📫 How to reach me: [Email](mailto:dunglt1501@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dunglt0115)
 - ⚡ Fun fact: In my social network, it seems like I'm the only one who loves to hear epic music 😄
 
 <!--

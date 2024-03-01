@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Darrow Le, an enthusiastic developer.
+
+- 🔭 I'm currently working at an outsourcing company.
+- 🌱 I'm learning more about DSA, System Design, Clean code, and Low-Code.
+- 👯 I’m looking to collaborate on projects that have a positive impact on daily life.
+
+- 💬 Ask me about: Javascript, Power Platform.
+- 📫 How to reach me: [Email](mailto:tiendungid1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dung-le-tien-723a82181/)
+- ⚡ Fun fact: In my social network, it seems like I'm the only one who loves to hear epic music 😄
 
 <!--
 **tiendungid1/tiendungid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
